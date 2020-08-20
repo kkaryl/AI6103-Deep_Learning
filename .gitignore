@@ -3,3 +3,5 @@ vi .gitignore
 **/*.ipynb_checkpoints/
 data/
 tmp/
+
+*.pyc
