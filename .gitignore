@@ -5,3 +5,5 @@ data/
 tmp/
 
 *.pyc
+
+start_deeplearn_jupyter.bat
