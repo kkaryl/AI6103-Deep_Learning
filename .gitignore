@@ -3,6 +3,7 @@ vi .gitignore
 **/*.ipynb_checkpoints/
 data/
 tmp/
+.virtual_documents/
 
 *.pyc
 
