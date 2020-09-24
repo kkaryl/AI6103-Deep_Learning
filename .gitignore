@@ -5,5 +5,12 @@ tmp/
 .virtual_documents/
 
 *.pyc
+*.pt
+*.tar.gz
+*.gz
+*-ubyte
+codes/data/cifar/temp
+codes/data/fashion-mnist/temp
+codes/data/mnist/temp
 
 start_deeplearn_jupyter.bat
