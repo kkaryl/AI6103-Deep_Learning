@@ -9,8 +9,12 @@ tmp/
 *.tar.gz
 *.gz
 *-ubyte
+.idea/
 codes/data/cifar/temp
 codes/data/fashion-mnist/temp
 codes/data/mnist/temp
+codes/data/pytorch
+codes/data/ptb
+codes/REF
 
 start_deeplearn_jupyter.bat
